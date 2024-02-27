@@ -17,3 +17,6 @@ Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
 2. Créez une branche pour chaque nouvelle fonctionnalité ou correction.
 3. Poussez vos branches et créez une Pull Request pour la fusion.
 Merci pour votre contribution à ce projet éducatif !
+
+
+![Texte alternatif](epo.png)
