@@ -9,3 +9,8 @@ function changeDynamicContent() {
     window.onload = function() {
     changeDynamicContent();
 };
+
+// Script pour dynamiser la section FAQ 
+document.addEventListener('DOMContentLoaded', function() { 
+console.log('Bienvenue dans la section FAQ de l\'École Polytechnique de Ouagadougou!'); 
+}); 
