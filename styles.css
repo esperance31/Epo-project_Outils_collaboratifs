@@ -1,57 +1,57 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
 }
 header {
-    background-color: #007bff;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 main {
-    margin: 20px;
-    text-align: center;
+  margin: 20px;
+  text-align: center;
 }
 button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 /* Styles pour la section À propos */
 #about {
-    background-color: #f0f0f0; /* Couleur de fond légère */
-    padding: 20px; /* Espacement interne */
-    margin-top: 20px; /* Marge au-dessus de la section */
-    border-radius: 8px; /* Bords arrondis */
+  background-color: #f0f0f0; /* Couleur de fond légère */
+  padding: 20px; /* Espacement interne */
+  margin-top: 20px; /* Marge au-dessus de la section */
+  border-radius: 8px; /* Bords arrondis */
 }
 #about h2 {
-    color: #333; /* Couleur du titre */
-    margin-bottom: 10px; /* Marge en dessous du titre */
+  color: #333; /* Couleur du titre */
+  margin-bottom: 10px; /* Marge en dessous du titre */
 }
 #about p {
-    color: #666; /* Couleur du texte */
-    line-height: 1.6; /* Hauteur de ligne pour améliorer la lisibilité */
+  color: #666; /* Couleur du texte */
+  line-height: 1.6; /* Hauteur de ligne pour améliorer la lisibilité */
 }
 
-/* Styles pour la section FAQ */ 
-#faq { 
-margin: 20px; 
-padding: 10px; 
-background-color: #f4f4f4; 
-} 
-.question h3 { 
-color: #333; 
-} 
-.question p { 
-font-size: 16px; 
-color: #666; 
-} 
+/* Styles pour la section FAQ */
+#faq {
+  margin: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+}
+.question h3 {
+  color: #333;
+}
+.question p {
+  font-size: 16px;
+  color: #666;
+}
