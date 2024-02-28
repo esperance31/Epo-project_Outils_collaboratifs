@@ -14,3 +14,6 @@ function changeDynamicContent() {
 document.addEventListener('DOMContentLoaded', function() { 
 console.log('Bienvenue dans la section FAQ de l\'École Polytechnique de Ouagadougou!'); 
 }); 
+
+
+
